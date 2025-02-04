@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Game\\Pivnuha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776E260F-312A-4AFF-FE4D-C8C9D5BB1107}|Assembly-CSharp.csproj|d:\\work\\game\\pivnuha\\assets\\scripts\\dialogscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E260F-312A-4AFF-FE4D-C8C9D5BB1107}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E260F-312A-4AFF-FE4D-C8C9D5BB1107}|Assembly-CSharp.csproj|D:\\Work\\Game\\Pivnuha\\assets\\scripts\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E260F-312A-4AFF-FE4D-C8C9D5BB1107}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776E260F-312A-4AFF-FE4D-C8C9D5BB1107}|Assembly-CSharp.csproj|D:\\Work\\Game\\Pivnuha\\assets\\scripts\\npcscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776E260F-312A-4AFF-FE4D-C8C9D5BB1107}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npcscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DIalogScript.cs",
+              "DocumentMoniker": "D:\\Work\\Game\\Pivnuha\\Assets\\Scripts\\DIalogScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DIalogScript.cs",
+              "ToolTip": "D:\\Work\\Game\\Pivnuha\\Assets\\Scripts\\DIalogScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DIalogScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:29:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPCScript.cs",
+              "DocumentMoniker": "D:\\Work\\Game\\Pivnuha\\Assets\\Scripts\\NPCScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCScript.cs",
+              "ToolTip": "D:\\Work\\Game\\Pivnuha\\Assets\\Scripts\\NPCScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:53:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovePlayer.cs",
+              "DocumentMoniker": "D:\\Work\\Game\\Pivnuha\\Assets\\Scripts\\MovePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovePlayer.cs",
+              "ToolTip": "D:\\Work\\Game\\Pivnuha\\Assets\\Scripts\\MovePlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:11:40.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
